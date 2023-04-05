@@ -1,14 +1,67 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "products": [
+    { 
+      "id": 1,
+      "title": "Milk",
+      "description": "Diary product which you drink every day",
+      "price": 1500,
+      "currency": "KZT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0SPPINPqAku9pOXjCUWbzpEHoDYV26-KbbA&usqp=CAU",
+      "rating": 4.9
+    },
+    { 
+      "id": 2,
+      "title": "Sausages",
+      "description": "Sausages made from cow meat",
+      "price": 2500,
+      "currency": "KZT",
+      "image": "https://w7.pngwing.com/pngs/189/304/png-transparent-raw-sausages-sausage-making-hot-dog-stuffing-turkey-sausage-food-chicken-meat-cooking.png",
+      "rating": 5.0
+    },
+    { 
+      "id": 3,
+      "title": "Bottle of water (5 l)",
+      "description": "Bottle of water with 5 litres",
+      "price": 1900,
+      "currency": "KZT",
+      "image": "https://5.imimg.com/data5/RS/EN/MY-22562613/5-l-mineral-water-bottle-500x500.jpg",
+      "rating": 4.5
+    },
+    { 
+      "id": 4,
+      "title": "Chips (Lays)",
+      "description": "Big chips (Lays)",
+      "price": 3500,
+      "currency": "KZT",
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40247766_3-lays-sizzlin-hot-potato-chips-spicy-light-crispy-crunchy-snack.jpg",
+      "rating": 5.0
+    },
+    { 
+      "id": 5,
+      "title": "Souvenir from New Jersey",
+      "description": "Some gift package brought straightly from the US",
+      "price": 5.6,
+      "currency": "USD",
+      "image": "https://cdn.shopify.com/s/files/1/0042/7409/4151/products/BundleD_1024x1024.jpg?v=1615588636",
+      "rating": 4.0
+    },
+    { 
+      "id": 6,
+      "title": "Chinese chopsticks",
+      "description": "Chopstics manufactured in Chinese products factory",
+      "price": 40,
+      "currency": "CNY",
+      "image": "https://i.ebayimg.com/images/g/1BAAAOSwnRJbftCU/s-l1600.jpg",
+      "rating": 3.9
+    },
+    { 
+      "id": 7,
+      "title": "Russian pancakes",
+      "description": "Pancakes made in Russia",
+      "price": 250,
+      "currency": "RUB",
+      "image": "https://www.expatica.com/app/uploads/sites/11/2014/05/russian-cuisine-1920x1080.jpg",
+      "rating": 4.5
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
