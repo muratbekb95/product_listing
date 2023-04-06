@@ -62,7 +62,106 @@
       "currency": "RUB",
       "image": "https://www.expatica.com/app/uploads/sites/11/2014/05/russian-cuisine-1920x1080.jpg",
       "rating": 4.5
-    }
+    },
+    { 
+      "id": 8,
+      "title": "Baursak",
+      "description": "Kazakh tradition food",
+      "price": 2000,
+      "currency": "KZT",
+      "image": "https://thumbs.dreamstime.com/b/traditional-kazakh-asian-baursak-dish-180138785.jpg",
+      "rating": 4.1
+    },
+    { 
+      "id": 9,
+      "title": "Bread",
+      "description": "Simple bread to eat daily",
+      "price": 250,
+      "currency": "KZT",
+      "image": "https://www.goldmedalbakery.com/content/uploads/2019/12/Sandwich-White.jpg",
+      "rating": 3.5
+    },
+    { 
+      "id": 10,
+      "title": "Eggs",
+      "description": "10 eggs in a container",
+      "price": 250,
+      "currency": "KZT",
+      "image": "https://media.istockphoto.com/id/1202676570/photo/eggs-in-a-plastic-container.jpg?s=612x612&w=0&k=20&c=RD1aCZ6h2O9gdACVRUUBgzKRp6fp3NE0AP8FKxnF-y8=",
+      "rating": 3.9
+    },
+    { 
+      "id": 11,
+      "title": "Soap",
+      "description": "Soap to wash hands",
+      "price": 150,
+      "currency": "KZT",
+      "image": "https://cdn.shopify.com/s/files/1/0068/2311/6903/products/J07108-Soap-800-x-800px_2048x.jpg?v=1571715276",
+      "rating": 3.1
+    },
+    { 
+      "id": 12,
+      "title": "Pedigree (3 kg)",
+      "description": "Food to feed your pet dog",
+      "price": 5000,
+      "currency": "KZT",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61IUJIyK2yL._SL1000_.jpg",
+      "rating": 4.6
+    },
+    { 
+      "id": 13,
+      "title": "Colgate",
+      "description": "Tooth cream to wash your teeth",
+      "price": 2900,
+      "currency": "KZT",
+      "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61nctAojOEL._SL1000_.jpg",
+      "rating": 4.8
+    },
+    { 
+      "id": 14,
+      "title": "Long text 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at est ut odio rutrum faucibus. Ut imperdiet id ante eget commodo. Nulla eget convallis tortor. Mauris ut augue bibendum, dictum dui non, molestie nunc. Maecenas quis tincidunt turpis. Mauris eu tellus nec diam fermentum feugiat vel nec urna. Sed vitae facilisis orci. Aenean suscipit ultrices ornare. Phasellus sagittis, lectus sit amet viverra fringilla, tellus leo vehicula ligula, sit amet placerat massa ante sit amet risus. Suspendisse vulputate euismod erat, eget aliquet tellus blandit sit amet. Phasellus finibus vulputate porttitor. Curabitur et ante ut est porttitor laoreet eu et lectus. Aliquam erat volutpat. Mauris pretium fringilla justo nec consequat. Duis mauris leo, gravida id est ut, convallis rutrum enim. In a aliquam neque, ac pharetra metus. Maecenas ac purus convallis, molestie lacus in, venenatis augue. Fusce sollicitudin urna vel sapien facilisis, at tincidunt quam pellentesque. Cras porta dui ut ipsum tincidunt.",
+      "price": 1400,
+      "currency": "KZT",
+      "image": "https://i1.wp.com/hechingerreport.org/wp-content/uploads/2018/04/Jennifer-Heller-Buckley-PHOTO1.jpg?ssl=1",
+      "rating": 3.0
+    },
+    { 
+      "id": 15,
+      "title": "Duracell",
+      "description": "Simple 2 slot batteries to charge your electronic devices",
+      "price": 1000,
+      "currency": "KZT",
+      "image": "https://images.satu.kz/127897298_w600_h600_127897298.jpg",
+      "rating": 2.8
+    },
+    { 
+      "id": 16,
+      "title": "Apples (1 kg)",
+      "description": "Fresh red apples 1 Kg",
+      "price": 350,
+      "currency": "KZT",
+      "image": "https://cdnprod.mafretailproxy.com/sys-master-root/h81/heb/12548704665630/351442_main.jpg_480Wx480H",
+      "rating": 4.7
+    },
+    { 
+      "id": 17,
+      "title": "Oreo ice cream",
+      "description": "Tasty ice cream by Oreo",
+      "price": 2800,
+      "currency": "KZT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qFa1NmOi5ZMOF2hlBLb7oEGzjoH6rPXzvQ&usqp=CAU",
+      "rating": 4.4
+    },
+    { 
+      "id": 18,
+      "title": "Snikers",
+      "description": "Tasty chocolate eaten by millions",
+      "price": 550,
+      "currency": "KZT",
+      "image": "https://pbs.twimg.com/media/D1-og56XQAE06UY.jpg",
+      "rating": 4.9
+    },
   ],
   "profile": {
     "name": "typicode"
