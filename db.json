@@ -120,14 +120,14 @@
     { 
       "id": 14,
       "title": "Long text 1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at est ut odio rutrum faucibus. Ut imperdiet id ante eget commodo." +
-        "Nulla eget convallis tortor. Mauris ut augue bibendum, dictum dui non, molestie nunc. Maecenas quis tincidunt turpis." +
-        "Mauris eu tellus nec diam fermentum feugiat vel nec urna. Sed vitae facilisis orci. Aenean suscipit ultrices ornare." + 
-        "Phasellus sagittis, lectus sit amet viverra fringilla, tellus leo vehicula ligula, sit amet placerat massa ante sit amet risus." +
-        "Suspendisse vulputate euismod erat, eget aliquet tellus blandit sit amet. Phasellus finibus vulputate porttitor." +
-        "Curabitur et ante ut est porttitor laoreet eu et lectus. Aliquam erat volutpat. Mauris pretium fringilla justo nec consequat." +
-        "Duis mauris leo, gravida id est ut, convallis rutrum enim. In a aliquam neque, ac pharetra metus. Maecenas ac purus convallis, molestie lacus in, venenatis augue." +
-        "Fusce sollicitudin urna vel sapien facilisis, at tincidunt quam pellentesque. Cras porta dui ut ipsum tincidunt.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at est ut odio rutrum faucibus. Ut imperdiet id ante eget commodo.\n
+        Nulla eget convallis tortor. Mauris ut augue bibendum, dictum dui non, molestie nunc. Maecenas quis tincidunt turpis.\n
+        Mauris eu tellus nec diam fermentum feugiat vel nec urna. Sed vitae facilisis orci. Aenean suscipit ultrices ornare.\n
+        Phasellus sagittis, lectus sit amet viverra fringilla, tellus leo vehicula ligula, sit amet placerat massa ante sit amet risus.\n
+        Suspendisse vulputate euismod erat, eget aliquet tellus blandit sit amet. Phasellus finibus vulputate porttitor.\n
+        Curabitur et ante ut est porttitor laoreet eu et lectus. Aliquam erat volutpat. Mauris pretium fringilla justo nec consequat.\n
+        Duis mauris leo, gravida id est ut, convallis rutrum enim. In a aliquam neque, ac pharetra metus. Maecenas ac purus convallis, molestie lacus in, venenatis augue.\n
+        Fusce sollicitudin urna vel sapien facilisis, at tincidunt quam pellentesque. Cras porta dui ut ipsum tincidunt.",
       "price": 1400,
       "currency": "KZT",
       "image": "https://i1.wp.com/hechingerreport.org/wp-content/uploads/2018/04/Jennifer-Heller-Buckley-PHOTO1.jpg?ssl=1",
