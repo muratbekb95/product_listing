@@ -38,28 +38,28 @@
     },
     { 
       "id": 5,
-      "title": "Souvenir from New Jersey",
-      "description": "Some gift package brought straightly from the US",
-      "price": 5.6,
-      "currency": "USD",
-      "image": "https://cdn.shopify.com/s/files/1/0042/7409/4151/products/BundleD_1024x1024.jpg?v=1615588636",
-      "rating": 4.0
+      "title": "Mackerel",
+      "description": "Tasty fish",
+      "price": 1500,
+      "currency": "KZT",
+      "image": "https://halalunas.ru/wp-content/uploads/2022/03/photo_2022-03-09_22-28-20.jpg",
+      "rating": 4.8
     },
     { 
       "id": 6,
-      "title": "Chinese chopsticks",
-      "description": "Chopstics manufactured in Chinese products factory",
-      "price": 40,
-      "currency": "CNY",
+      "title": "Chopsticks",
+      "description": "Chopstics to eat sushi",
+      "price": 400,
+      "currency": "KZT",
       "image": "https://i.ebayimg.com/images/g/1BAAAOSwnRJbftCU/s-l1600.jpg",
       "rating": 3.9
     },
     { 
       "id": 7,
-      "title": "Russian pancakes",
-      "description": "Pancakes made in Russia",
-      "price": 250,
-      "currency": "RUB",
+      "title": "Pancakes",
+      "description": "Pancakes to have a good breakfast",
+      "price": 1250,
+      "currency": "KZT",
       "image": "https://www.expatica.com/app/uploads/sites/11/2014/05/russian-cuisine-1920x1080.jpg",
       "rating": 4.5
     },
